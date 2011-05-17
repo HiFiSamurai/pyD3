@@ -1,0 +1,4 @@
+Python script to organize MP3 ID3 tags.
+Takes in path to the parent music folder, finds all .mp3 files in the children directories, and check Album Artist field.
+If it is blank, it assigns the value from the Artist field.
+(Used in organizing music library after migration to SongBird)
